@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer utilities {
+  body {
+    @apply font-['Inter'];
+    @apply bg-grey-generic;
+  }
+}
