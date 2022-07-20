@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "./Footer";
-import PageHeader from "./PageHeader";
+import PageHeader from "./Page/PageHeader";
 
 const Layout = ({ children }) => {
   return (

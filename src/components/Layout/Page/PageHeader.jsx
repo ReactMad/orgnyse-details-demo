@@ -1,5 +1,5 @@
 import React from "react";
-import TabTitles from "../Tabs/TabTitles";
+import TabTitles from "../../Tabs/TabTitles";
 
 const PageHeader = () => {
   return (
